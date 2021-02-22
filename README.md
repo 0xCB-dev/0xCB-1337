@@ -2,6 +2,6 @@
 Mechanical macropad with OLED running QMK
 
 PCB:
-[](https://raw.githubusercontent.com/Conor-Burns/dotfiles/master/PCB/top.png)
+[](https://github.com/Conor-Burns/0xcb-1337/blob/main/PCB/top.png)
 
-[](https://raw.githubusercontent.com/Conor-Burns/dotfiles/master/PCB/bottom.png)
+[](https://github.com/Conor-Burns/0xcb-1337/blob/main/PCB/bottom.png)
