@@ -3,6 +3,14 @@
 
 ![](https://github.com/Conor-Burns/0xcb-1337/blob/main/LICENSE.svg)
 
+### VIA
+
+[src/0xcb/1337/1337.json](https://github.com/Conor-Burns/0xcb-1337/blob/main/)
+
+### QMK
+
+[keyboards/0xcb/1337/](https://github.com/Conor-Burns/0xcb-1337/blob/main/)
+
 ### PCB:
 Import .json to EasyEDA to edit the source
 
