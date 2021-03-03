@@ -5,11 +5,11 @@
 
 ### VIA
 
-[src/0xcb/1337/1337.json](https://github.com/Conor-Burns/0xcb-1337/blob/main/)
+[src/0xcb/1337/1337.json](https://github.com/Conor-Burns/keyboards/tree/0xcb-1337/src/0xcb/1337)
 
 ### QMK
 
-[keyboards/0xcb/1337/](https://github.com/Conor-Burns/0xcb-1337/blob/main/)
+[keyboards/0xcb/1337/](https://github.com/Conor-Burns/qmk_firmware/tree/0xcb-1337/keyboards/0xcb/1337)
 
 ### PCB:
 Import .json to EasyEDA to edit the source
