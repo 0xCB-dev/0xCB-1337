@@ -1,8 +1,0 @@
-[submodule "submodules/qmk"]
-	path = submodules/qmk
-	url = https://github.com/Conor-Burns/qmk_firmware
-	branch = 0xcb-1337
-[submodule "submodules/via"]
-	path = submodules/via
-	url = https://github.com/Conor-Burns/keyboards
-	branch = 0xcb-1337
