@@ -11,6 +11,15 @@
 
 [keyboards/0xcb/1337/](https://github.com/Conor-Burns/qmk_firmware/tree/0xcb-1337/keyboards/0xcb/1337)
 
+#### Flashing
+
+* `qmk clone`
+* `cd qmk_firmware`
+* `export LTO=Y`
+* `export CONFIG_USB_ACM=y`
+* Press switch 1 while plugging in to go into dfu mode
+* `make 0xcb/1337:via:flash`
+
 ### PCB:
 Import .json to EasyEDA to edit the source
 
@@ -21,7 +30,7 @@ Import .json to EasyEDA to edit the source
 ![](https://github.com/Conor-Burns/0xcb-1337/blob/main/PCB/bottom.png)
 
 
-### BOM:
+#### BOM:
 |Name              |Designator                             |Quantity|Manufacturer Part|Manufacturer |Supplier             |Supplier Part|
 |------------------|---------------------------------------|--------|-----------------|-------------|---------------------|-------------|
 |Pro Micro - 5V    |MCU                                    |1       |                 |             |Amazon               |             |
