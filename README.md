@@ -1,7 +1,9 @@
 # 0xcb-1337
 ## Mechanical macropad with OLED running QMK
 
-![](https://github.com/Conor-Burns/0xcb-1337/blob/main/LICENSE.svg)
+![](https://github.com/Conor-Burns/0xcb-1337/blob/main/IMG/OSHWA.svg)
+
+![](https://github.com/Conor-Burns/0xcb-1337/blob/main/IMG/LICENSE.svg)
 
 ### VIA
 
