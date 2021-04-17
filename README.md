@@ -3,7 +3,7 @@
 
 Licence | OSHWA | Tindie
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/Conor-Burns/0xcb-1337/blob/main/IMG/LICENSE.svg) | ![](https://github.com/Conor-Burns/0xcb-1337/blob/main/IMG/OSHWA.svg) | <a href="https://www.tindie.com/stores/0xcb/?ref=offsite_badges&utm_source=sellers_conorlburns&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+![](https://github.com/Conor-Burns/0xcb-1337/blob/main/IMG/LICENSE.svg) | [![](https://github.com/Conor-Burns/0xcb-1337/blob/main/IMG/OSHWA.svg)](https://certification.oshwa.org/de000108.html) | <a href="https://www.tindie.com/stores/0xcb/?ref=offsite_badges&utm_source=sellers_conorlburns&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 
 ### VIA
 
