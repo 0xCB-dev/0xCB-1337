@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "0xcb")(type "KiCad")(uri "${KIPRJMOD}/0xcb-lib/0xcb.pretty")(options "")(descr ""))
+)
