@@ -6,8 +6,8 @@
 
   (title_block
     (title "1337")
-    (date "2021-05-23")
-    (rev "2.1")
+    (date "2021-05-25")
+    (rev "3.0")
     (company "0xCB")
     (comment 1 "Conor Burns")
   )
