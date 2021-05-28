@@ -3,7 +3,7 @@
 
 Licence | OSHWA | Tindie
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/Conor-Burns/0xcb-1337/blob/main/IMG/LICENSE.svg) | [![](https://github.com/Conor-Burns/0xcb-1337/blob/main/IMG/OSHWA.svg)](https://certification.oshwa.org/de000108.html) | <a href="https://www.tindie.com/stores/0xcb/?ref=offsite_badges&utm_source=sellers_conorlburns&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+![](https://github.com/Conor-Burns/0xcb-1337/blob/main/IMG/LICENSE.svg) | [![](https://github.com/Conor-Burns/0xcb-1337/blob/main/PCB/rev3.0/OSHWA.svg)](https://certification.oshwa.org/de000113.html) | <a href="https://www.tindie.com/stores/0xcb/?ref=offsite_badges&utm_source=sellers_conorlburns&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 
 ### VIA
 
@@ -18,19 +18,16 @@ Licence | OSHWA | Tindie
 * `qmk clone`
 * `cd qmk_firmware`
 * `export LTO=Y`
-* `export CONFIG_USB_ACM=y`
 * Press switch 1 while plugging in to go into dfu mode
 * `make 0xcb/1337:via:flash`
 
 ### PCB:
-Import .json to EasyEDA to edit the source
-
-[Schematic](https://github.com/Conor-Burns/0xcb-1337/blob/main/PCB/rev1.1/Schematic_1337.pdf)
+KiCad 5.99
+[Schematic](https://github.com/Conor-Burns/0xcb-1337/blob/main/PCB/rev3.0/Schematic_1337.pdf)
 
 Top | Bottom
 :-------------------------:|:-------------------------:
-![](https://github.com/Conor-Burns/0xcb-1337/blob/main/PCB/toppcb.png)  |  ![](https://github.com/Conor-Burns/0xcb-1337/blob/main/PCB/bottompcb.png)
-![](https://github.com/Conor-Burns/0xcb-1337/blob/main/PCB/top.png)  |  ![](https://github.com/Conor-Burns/0xcb-1337/blob/main/PCB/bottom.png)
+![](https://github.com/Conor-Burns/0xcb-1337/blob/main/PCB/rev3.0/top.png)  |  ![](https://github.com/Conor-Burns/0xcb-1337/blob/main/PCB/rev3.0/bottom.png)
 
 
 

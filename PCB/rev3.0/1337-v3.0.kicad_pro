@@ -342,7 +342,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "rev2.1.kicad_pro",
+    "filename": "1337-v3.0.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -398,7 +398,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "../../../../Downloads/rev2.1.dsn",
-      "step": "",
+      "step": "1337-v3.0.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -425,7 +425,7 @@
     "meta": {
       "version": 0
     },
-    "net_format_name": "",
+    "net_format_name": "Spice",
     "ngspice": {
       "meta": {
         "version": 0
