@@ -1,110 +1,24 @@
-"Source:","/home/conor/Sites/0xcb-1337/PCB/rev3.0/1337-v3.0.kicad_sch"
-"Date:","Fr 28 Mai 2021 07:48:28 CEST"
-"Tool:","Eeschema (5.99.0-10540-g55c1d814f9)"
-"Generator:","/usr/share/kicad-nightly/plugins/bom_csv_grouped_by_value.py"
-"Component Count:","71"
-
-"Individual Components:"
-
-"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Alt Part Nb.","Another Part Nb.","Part Nb."
-"","","C1","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C91183","","478-5266-1-ND"
-"","","C2","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C91183","","478-5266-1-ND"
-"","","C3","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C91183","","478-5266-1-ND"
-"","","C4","1u","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C393692","","1276-1102-1-ND"
-"","","C5","1u","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C393692","","1276-1102-1-ND"
-"","","C6","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C91183","","478-5266-1-ND"
-"","","C7","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C91183","","478-5266-1-ND"
-"","","C8","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C91183","","478-5266-1-ND"
-"","","C9","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C91183","","478-5266-1-ND"
-"","","C10","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C91183","","478-5266-1-ND"
-"","","C11","1u","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C393692","","1276-1102-1-ND"
-"","","C12","1u","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C393692","","1276-1102-1-ND"
-"","","C13","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C91183","","478-5266-1-ND"
-"","","C14","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C91183","","478-5266-1-ND"
-"","","C15","10u","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C441753","","587-3383-1-ND"
-"","","C16","22p","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C85969","","478-1167-1-ND"
-"","","C17","22p","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C85969","","478-1167-1-ND"
-"","","C18","22p","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C85969","","478-1167-1-ND"
-"","","C19","22p","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C85969","","478-1167-1-ND"
-"","","C20","1u","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C393692","","1276-1102-1-ND"
-"","","C21","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C91183","","478-5266-1-ND"
-"","","C22","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C91183","","478-5266-1-ND"
-"","","C23","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C91183","","478-5266-1-ND"
-"","","C24","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C91183","","478-5266-1-ND"
-"","","C25","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C91183","","478-5266-1-ND"
-"","","C26","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C91183","","478-5266-1-ND"
-"","","C27","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C91183","","478-5266-1-ND"
-"","","D1","WS2812B","LED:WS2812B","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf","C114586","-","1568-COM-16347CT-ND"
-"","","D2","WS2812B","LED:WS2812B","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf","C114586","-","1568-COM-16347CT-ND"
-"","","D3","WS2812B","LED:WS2812B","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf","C114586","-","1568-COM-16347CT-ND"
-"","","D4","WS2812B","LED:WS2812B","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf","C114586","-","1568-COM-16347CT-ND"
-"","","F1","1A","Device:Polyfuse_Small","0xcb:Fuse_0805_2012Metric","~","C369150","","507-1815-1-ND"
-"","","F2","500mA","Device:Polyfuse_Small","0xcb:Fuse_0805_2012Metric","~","C883103","","507-1813-1-ND"
-"","","FB1","600R","0xcb:Ferrite_Bead","0xcb:Ferrite_Bead_0603","~","C74330","","732-1593-1-ND"
-"","","FB2","600R","0xcb:Ferrite_Bead","0xcb:Ferrite_Bead_0603","~","C74330","","732-1593-1-ND"
-"","","FB3","600R","0xcb:Ferrite_Bead","0xcb:Ferrite_Bead_0603","~","C74330","","732-1593-1-ND"
-"","","J1","USB_IN","Connector:USB_C_Receptacle_USB2.0","0xcb:HRO-TYPE-C-31-M-13","https://www.usb.org/sites/default/files/documents/usb_type-c.zip","C223906","-","900-2169900002CT-ND"
-"","","J3","USB_OUT","Connector:USB_C_Receptacle_USB2.0","0xcb:HRO-TYPE-C-31-M-13","https://www.usb.org/sites/default/files/documents/usb_type-c.zip","C223906","-","900-2169900002CT-ND"
-"","","JP1","Jumper_2_Open","Jumper:Jumper_2_Open","Resistor_SMD:R_0201_0603Metric","~","","",""
-"","","JP2","Jumper_2_Open","Jumper:Jumper_2_Open","Resistor_SMD:R_0201_0603Metric","~","","",""
-"","","Q1","FDS9926A","Transistor_FET:FDS9926A","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","https://www.onsemi.com/pub/Collateral/FDS9926A-D.pdf","C693202","","FDS9926ACT-ND"
-"","","R2","5.1k","Device:R","Resistor_SMD:R_0603_1608Metric","~","C23186","","P5.1KDBCT-ND"
-"","","R3","5.1k","Device:R","Resistor_SMD:R_0603_1608Metric","~","C23186","","P5.1KDBCT-ND"
-"","","R5","22","Device:R","Resistor_SMD:R_0603_1608Metric","~","C174301","","A130081CT-ND"
-"","","R6","22","Device:R","Resistor_SMD:R_0603_1608Metric","~","C174301","","A130081CT-ND"
-"","","R7","10k","Device:R","Resistor_SMD:R_0603_1608Metric","~","C25804","","RHM10KADCT-ND"
-"","","R9","10k","Device:R","Resistor_SMD:R_0603_1608Metric","~","C25804","","RHM10KADCT-ND"
-"","","R11","10k","Device:R","Resistor_SMD:R_0603_1608Metric","~","C25804","","RHM10KADCT-ND"
-"","","R12","10k","Device:R","Resistor_SMD:R_0603_1608Metric","~","C25804","","RHM10KADCT-ND"
-"","","R13","649","Device:R","Resistor_SMD:R_0603_1608Metric","~","C705928","","P649DBCT-ND"
-"","","R14","10k","Device:R","Resistor_SMD:R_0603_1608Metric","~","C25804","","RHM10KADCT-ND"
-"","","R15","330","Device:R_Small","Resistor_SMD:R_1206_3216Metric","~","C104763","","A130532CT-ND"
-"","","R16","330","Device:R_Small","Resistor_SMD:R_1206_3216Metric","~","C104763","","A130532CT-ND"
-"","","R17","330","Device:R_Small","Resistor_SMD:R_1206_3216Metric","~","C104763","","A130532CT-ND"
-"","","R18","330","Device:R_Small","Resistor_SMD:R_1206_3216Metric","~","C104763","","A130532CT-ND"
-"","","R19","330","Device:R_Small","Resistor_SMD:R_1206_3216Metric","~","C104763","","A130532CT-ND"
-"","","R20","330","Device:R_Small","Resistor_SMD:R_1206_3216Metric","~","C104763","","A130532CT-ND"
-"","","R21","330","Device:R_Small","Resistor_SMD:R_1206_3216Metric","~","C104763","","A130532CT-ND"
-"","","R22","330","Device:R_Small","Resistor_SMD:R_1206_3216Metric","~","C104763","","A130532CT-ND"
-"","","R23","330","Device:R_Small","Resistor_SMD:R_1206_3216Metric","~","C104763","","A130532CT-ND"
-"","","R28","10k","Device:R","Resistor_SMD:R_0603_1608Metric","~","C25804","","RHM10KADCT-ND"
-"","","R29","330","Device:R_Small","Resistor_SMD:R_1206_3216Metric","~","C104763","","A130532CT-ND"
-"","","RN1","10k","Device:R_Pack04_Split","Resistor_SMD:R_Array_Convex_4x0603","~","","",""
-"","","RN2","10k","Device:R_Pack04_Split","Resistor_SMD:R_Array_Convex_4x0603","~","","",""
-"","","SW1","SW_Push","Switch:SW_Push","Button_Switch_SMD:SW_SPST_TL3342","~","C318884","","EG2531CT-ND"
-"","","U1","CY7C65634-28LTXCT (or CY7C65632)","0xcb:CY7C65632-28LTXCT","0xcb:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm_ThermalVias","https://www.cypress.com/file/114101/download","C1521581","https://www.win-source.net/cypress-semiconductor-corp-cy7c65634-28ltxct.html","428-3154-1-ND"
-"","","U2","USBLC6-2SC6","0xcb:USBLC6-2SC6","Package_TO_SOT_SMD:SOT-23-6","http://www2.st.com/resource/en/datasheet/CD00050750.pdf","C7519","","497-5235-1-ND"
-"","","U3","ATMEGA32U4","0xcb:ATMEGA32U4","0xcb:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias","","C112161","","ATMEGA32U4RC-MURCT-ND"
-"","","U4","USBLC6-2SC6","0xcb:USBLC6-2SC6","Package_TO_SOT_SMD:SOT-23-6","http://www2.st.com/resource/en/datasheet/CD00050750.pdf","C7519","","497-5235-1-ND"
-"","","Y1","12MHz","Device:Crystal_GND24_Small","0xcb:Crystal_SMD_3225-4Pin_3.2x2.5mm","~","C9002","","XC2874CT-ND"
-"","","Y2","16MHz","Device:Crystal_GND24_Small","0xcb:Crystal_SMD_3225-4Pin_3.2x2.5mm","~","C389842","","XC2060CT-ND"
-
-
-
-"Collated Components:"
-
-"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Alt Part Nb.","Another Part Nb.","Part Nb."
-"1","17","C1, C2, C3, C6, C7, C8, C9, C10, C13, C14, C21, C22, C23, C24, C25, C26, C27","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C91183","","478-5266-1-ND"
-"2","5","C4, C5, C11, C12, C20","1u","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C393692","","1276-1102-1-ND"
-"3","1","C15","10u","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C441753","","587-3383-1-ND"
-"4","4","C16, C17, C18, C19","22p","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","C85969","","478-1167-1-ND"
-"5","4","D1, D2, D3, D4","WS2812B","LED:WS2812B","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf","C114586","-","1568-COM-16347CT-ND"
-"6","1","F1","1A","Device:Polyfuse_Small","0xcb:Fuse_0805_2012Metric","~","C369150","","507-1815-1-ND"
-"7","1","F2","500mA","Device:Polyfuse_Small","0xcb:Fuse_0805_2012Metric","~","C883103","","507-1813-1-ND"
-"8","3","FB1, FB2, FB3","600R","0xcb:Ferrite_Bead","0xcb:Ferrite_Bead_0603","~","C74330","","732-1593-1-ND"
-"9","1","J1","USB_IN","Connector:USB_C_Receptacle_USB2.0","0xcb:HRO-TYPE-C-31-M-13","https://www.usb.org/sites/default/files/documents/usb_type-c.zip","C223906","-","900-2169900002CT-ND"
-"10","1","J3","USB_OUT","Connector:USB_C_Receptacle_USB2.0","0xcb:HRO-TYPE-C-31-M-13","https://www.usb.org/sites/default/files/documents/usb_type-c.zip","C223906","-","900-2169900002CT-ND"
-"11","2","JP1, JP2","Jumper_2_Open","Jumper:Jumper_2_Open","Resistor_SMD:R_0201_0603Metric","~","","",""
-"12","1","Q1","FDS9926A","Transistor_FET:FDS9926A","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","https://www.onsemi.com/pub/Collateral/FDS9926A-D.pdf","C693202","","FDS9926ACT-ND"
-"13","2","R2, R3","5.1k","Device:R","Resistor_SMD:R_0603_1608Metric","~","C23186","","P5.1KDBCT-ND"
-"14","2","R5, R6","22","Device:R","Resistor_SMD:R_0603_1608Metric","~","C174301","","A130081CT-ND"
-"15","6","R7, R9, R11, R12, R14, R28","10k","Device:R","Resistor_SMD:R_0603_1608Metric","~","C25804","","RHM10KADCT-ND"
-"16","1","R13","649","Device:R","Resistor_SMD:R_0603_1608Metric","~","C705928","","P649DBCT-ND"
-"17","10","R15, R16, R17, R18, R19, R20, R21, R22, R23, R29","330","Device:R_Small","Resistor_SMD:R_1206_3216Metric","~","C104763","","A130532CT-ND"
-"18","2","RN1, RN2","10k","Device:R_Pack04_Split","Resistor_SMD:R_Array_Convex_4x0603","~","","",""
-"19","1","SW1","SW_Push","Switch:SW_Push","Button_Switch_SMD:SW_SPST_TL3342","~","C318884","","EG2531CT-ND"
-"20","1","U1","CY7C65634-28LTXCT (or CY7C65632)","0xcb:CY7C65632-28LTXCT","0xcb:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm_ThermalVias","https://www.cypress.com/file/114101/download","C1521581","https://www.win-source.net/cypress-semiconductor-corp-cy7c65634-28ltxct.html","428-3154-1-ND"
-"21","2","U2, U4","USBLC6-2SC6","0xcb:USBLC6-2SC6","Package_TO_SOT_SMD:SOT-23-6","http://www2.st.com/resource/en/datasheet/CD00050750.pdf","C7519","","497-5235-1-ND"
-"22","1","U3","ATMEGA32U4","0xcb:ATMEGA32U4","0xcb:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias","","C112161","","ATMEGA32U4RC-MURCT-ND"
-"23","1","Y1","12MHz","Device:Crystal_GND24_Small","0xcb:Crystal_SMD_3225-4Pin_3.2x2.5mm","~","C9002","","XC2874CT-ND"
-"24","1","Y2","16MHz","Device:Crystal_GND24_Small","0xcb:Crystal_SMD_3225-4Pin_3.2x2.5mm","~","C389842","","XC2060CT-ND"
+Qty,Reference(s),Value,Part Nb.,Alt Part Nb.
+17,"C1, C2, C3, C6, C7, C8, C9, C10, C13, C14, C21, C22, C23, C24, C25, C26, C27",100n,478-5266-1-ND,C91183
+5,"C4, C5, C11, C12, C20",1u,1276-1102-1-ND,C393692
+1,C15,10u,587-3383-1-ND,C441753
+4,"C16, C17, C18, C19",22p,478-1167-1-ND,C85969
+4,"D1, D2, D3, D4",WS2812B,1568-COM-16347CT-ND,C114586
+1,F1,1A,507-1815-1-ND,C369150
+1,F2,500mA,507-1813-1-ND,C883103
+3,"FB1, FB2, FB3",600R,732-1593-1-ND,C74330
+1,J1,USB_IN,900-2169900002CT-ND,C223906
+1,J3,USB_OUT,900-2169900002CT-ND,C223906
+1,Q1,FDS9926A,FDS9926ACT-ND,C693202
+2,"R2, R3",5.1k,P5.1KDBCT-ND,C23186
+2,"R5, R6",22,A130081CT-ND,C174301
+6,"R7, R9, R11, R12, R14, R28",10k,RHM10KADCT-ND,C25804
+1,R13,649,P649DBCT-ND,C705928
+10,"R15, R16, R17, R18, R19, R20, R21, R22, R23, R29",330,A130532CT-ND,C104763
+2,"RN1, RN2",10k,MNR14103RTR-ND,C109324
+1,SW1,SW_Push,EG2531CT-ND,C318884
+1,U1,CY7C65634-28LTXCT (or CY7C65632),428-3154-1-ND,C1521581
+2,"U2, U4",USBLC6-2SC6,497-5235-1-ND,C7519
+1,U3,ATMEGA32U4,ATMEGA32U4RC-MURCT-ND,C112161
+1,Y1,12MHz,XC2874CT-ND,C9002
+1,Y2,16MHz,XC2060CT-ND,C389842
