@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/conor/Sites/0xcb-1337/PCB/rev3.0/1337-v3.0.kicad_sch</source>
-    <date>Fr 28 Mai 2021 08:31:21 CEST</date>
+    <date>Fr 28 Mai 2021 12:16:07 CEST</date>
     <tool>Eeschema (5.99.0-10540-g55c1d814f9)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1010,7 +1010,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="1337-v3.0.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>82f13507-3f99-4476-9d65-aa86a5b3f3cb91919d6c-59ec-4f86-a0ce-13fbe87d5a35c66a5bf9-5832-48c5-805b-0594fb5e06e500a8d373-e0f2-423a-808a-3508ef7bac1c</tstamps>
+      <tstamps>c66a5bf9-5832-48c5-805b-0594fb5e06e582f13507-3f99-4476-9d65-aa86a5b3f3cb91919d6c-59ec-4f86-a0ce-13fbe87d5a3500a8d373-e0f2-423a-808a-3508ef7bac1c</tstamps>
     </comp>
     <comp ref="RN2">
       <value>10k</value>
