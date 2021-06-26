@@ -11,15 +11,19 @@ Licence | OSHWA | Tindie
 
 ### QMK
 
-[keyboards/0xcb/1337/](https://github.com/0xCB-dev/0xcb-1337/qmk_firmware/tree/0xcb-1337/keyboards/0xcb/1337)
+[keyboards/0xcb/1337/](https://github.com/0xCB-dev/qmk_firmware/tree/0xcb-1337)
 
 #### Flashing
 
 * `qmk clone`
 * `cd qmk_firmware`
 * `export LTO=Y`
-* Press switch 1 while plugging in to go into dfu mode (or reset)
+* Press switch 1 while plugging in to go into dfu mode (or the reset button)
 * `make 0xcb/1337:via:flash`
+
+### Assembly:
+
+You can use the [humanpnp](https://files.0xcb.dev/0xCB/1337/humanpnp.html) to easily place components.
 
 ### PCB:
 KiCad 5.99
@@ -30,27 +34,27 @@ Top | Bottom
 ![](https://github.com/0xCB-dev/0xcb-1337/blob/main/PCB/rev3.0/top.png)  |  ![](https://github.com/0xCB-dev/0xcb-1337/blob/main/PCB/rev3.0/bottom.png)
 
 #### BOM:
-|Qty|Reference(s)                                        |Value                |Part Nb.          |
-|---|----------------------------------------------------|---------------------|------------------|
-|17 |C1, C2, C3, C6, C7, C8, C9, C10, C13, C14, C21 - C27|100n                 |C478888           |
-|5  |C4, C5, C11, C12, C20                               |1u                   |C29936            |
-|1  |C15                                                 |10u                  |C85713            |
-|4  |C16, C17, C18, C19                                  |22p                  |C85969            |
-|4  |D1, D2, D3, D4                                      |WS2812B              |C114586           |
-|1  |F1                                                  |1A                   |C369150           |
-|1  |F2                                                  |500mA                |C883103           |
-|3  |FB1, FB2, FB3                                       |600R                 |C74330            |
-|1  |J1, J3                                              |TYPE-C-31-M-13       |C223906           |
-|1  |Q1                                                  |FDS9926A             |C693202           |
-|2  |R2, R3                                              |5.1k                 |C23186            |
-|2  |R5, R6                                              |22                   |C174301           |
-|6  |R7, R9, R11, R12, R14, R28                          |10k                  |C98220            |
-|1  |R13                                                 |649                  |C705928           |
-|10 |R15, R16, R17, R18, R19, R20, R21, R22, R23, R29    |330                  |C104763           |
-|2  |RN1, RN2                                            |10k                  |C109324           |
-|1  |SW1                                                 |SW_Push              |C318884           |
-|1  |U1                                                  |CY7C65634 / CY7C65632|428-3154-1-ND     |
-|2  |U2, U4                                              |USBLC6-2SC6          |C7519             |
-|1  |U3                                                  |ATMEGA32U4           |ATMEGA32U4RC-MU-ND|
-|1  |Y1                                                  |12MHz                |C9002             |
-|1  |Y2                                                  |16MHz                |C389842           |
+| References                                        | Value                            | Quantity |Part Nb.          |
+|---------------------------------------------------|----------------------------------|----------|------------------|
+| C1, C2, C3, C6, ..., C10, C13, C14, C21, ..., C27 | 100n                             | 17       |C478888           |
+| C4, C5, C11, C12, C20                             | 1u                               | 5        |C29936            |
+| C16, C17, C18, C19                                | 22p                              | 4        |C85969            |
+| C15                                               | 10u                              | 1        |C85713            |
+| R7, R9, R11, R12, R14, R28                        | 10k                              | 6        |C98220            |
+| R2, R3                                            | 5.1k                             | 2        |C23186            |
+| R5, R6                                            | 22                               | 2        |C174301           |
+| R13                                               | 649                              | 1        |C705928           |
+| R15, ..., R23, R29                                | 330                              | 10       |C104763           |
+| D1, D2, D3, D4                                    | WS2812B                          | 4        |C114586           |
+| U1                                                | CY7C65634-28LTXCT (or CY7C65632) | 1        |428-3154-1-ND     |
+| U3                                                | ATMEGA32U4                       | 1        |ATMEGA32U4RC-MU-ND|
+| U2, U4                                            | USBLC6-2SC6                      | 2        |C7519             |
+| Y1                                                | 12MHz                            | 1        |C9002             |
+| Y2                                                | 16MHz                            | 1        |C389842           |
+| F1                                                | 1A                               | 1        |C369150           |
+| F2                                                | 500mA                            | 1        |C883103           |
+| SW1                                               | SW_Push                          | 1        |C318884           |
+| FB1, FB2, FB3                                     | 600R                             | 3        |C74330            |
+| RN1, RN2                                          | 10k                              | 2        |C109324           |
+| Q1                                                | FDS9926A                         | 1        |C693202           |
+| J1, J3                                            | USB                              | 2        |C168688           |
