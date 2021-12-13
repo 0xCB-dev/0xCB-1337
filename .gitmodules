@@ -1,8 +1,0 @@
-[submodule "QMK"]
-	path = QMK
-	url = git@github.com:0xCB-dev/qmk_firmware.git
-	branch = 0xcb-1337
-[submodule "VIA"]
-	path = VIA
-	url = git@github.com:0xCB-dev/keyboards.git
-	branch = 0xcb-1337
