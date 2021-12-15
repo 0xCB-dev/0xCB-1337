@@ -1,4 +1,4 @@
-19822630795640208
+19852882775598202
 0xcb
 0xCB
 
@@ -42,6 +42,13 @@ SMD SMT crystal reduced paste
 4
 4
 0xcb
+EC11
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+0xcb
 Ferrite_Bead_0603
 ferrite bead 0603
 Ferrite Bead
@@ -75,7 +82,7 @@ HRO-TYPE-C-31-M-13
 
 0
 20
-17
+20
 0xcb
 JST-SR-4
 
@@ -300,6 +307,13 @@ TYPE-C-31-M-12
 0
 16
 14
+0xcb
+molex2169900001
+
+
+0
+20
+20
 0xcb
 mount
 
