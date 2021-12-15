@@ -1,4 +1,4 @@
-19851243170628705
+19822630795640208
 0xcb
 0xCB
 
@@ -28,19 +28,19 @@ AVR Programmer 6 pogo pin 2.54 mm spacing
 6
 6
 0xcb
+CB-sm
+
+
+0
+0
+0
+0xcb
 Crystal_SMD_3225-4Pin_3.2x2.5mm
 SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
 SMD SMT crystal reduced paste
 0
 4
 4
-0xcb
-EC11
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-7
-6
 0xcb
 Ferrite_Bead_0603
 ferrite bead 0603
@@ -75,7 +75,7 @@ HRO-TYPE-C-31-M-13
 
 0
 20
-20
+17
 0xcb
 JST-SR-4
 
@@ -300,13 +300,6 @@ TYPE-C-31-M-12
 0
 16
 14
-0xcb
-molex2169900001
-
-
-0
-20
-20
 0xcb
 mount
 

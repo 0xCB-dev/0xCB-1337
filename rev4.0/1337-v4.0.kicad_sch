@@ -9,7 +9,7 @@
     (date "2021-12-15")
     (rev "4.0")
     (company "0xCB")
-    (comment 1 "Conor Burns")
+    (comment 1 "Conor Burns & Jakob Kriener")
   )
 
   (lib_symbols
