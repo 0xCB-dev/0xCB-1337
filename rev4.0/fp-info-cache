@@ -1,4 +1,4 @@
-19805370742169376
+19851243170628705
 0xcb
 0xCB
 
@@ -34,6 +34,13 @@ SMD SMT crystal reduced paste
 0
 4
 4
+0xcb
+EC11
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
 0xcb
 Ferrite_Bead_0603
 ferrite bead 0603
@@ -6072,6 +6079,27 @@ Capacitor_THT
 C_Rect_L41.5mm_W40.0mm_P37.50mm_MKS4
 C, Rect series, Radial, pin pitch=37.50mm, , length*width=41.5*40mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
 C Rect series Radial pin pitch 37.50mm  length 41.5mm width 40mm Capacitor
+0
+2
+2
+Capacitor_THT
+DX_5R5HxxxxU_D11.5mm_P10.00mm
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=11.5mm, Supercapacitor, http://www.elna.co.jp/en/capacitor/double_layer/catalog/pdf/dx_e.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 11.5mm supercapacitor
+0
+2
+2
+Capacitor_THT
+DX_5R5VxxxxU_D11.5mm_P5.00mm
+CP, Radial series, Radial, pin pitch=5.00mm, diameter=11.5mm, Supercapacitor, http://www.elna.co.jp/en/capacitor/double_layer/catalog/pdf/dx_e.pdf
+CP Radial series Radial pin pitch 5.00mm diameter 11.5mm supercapacitor
+0
+2
+2
+Capacitor_THT
+DX_5R5VxxxxU_D19.0mm_P5.00mm
+CP, Radial series, Radial, pin pitch=5.00mm, diameter=19mm, Supercapacitor, http://www.elna.co.jp/en/capacitor/double_layer/catalog/pdf/dx_e.pdf
+CP Radial series Radial pin pitch 5.00mm diameter 19mm supercapacitor
 0
 2
 2
