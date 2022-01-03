@@ -27,11 +27,11 @@ You can use the [humanpnp](https://files.0xcb.dev/0xCB/1337/humanpnp.html) to ea
 
 ### PCB:
 KiCad 6
-[Schematic](https://github.com/0xCB-dev/0xcb-1337/blob/main/PCB/rev3.0/Schematic-1337.pdf)
+[Schematic](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev3.0/Schematic-1337.pdf)
 
 Top | Bottom
 :-------------------------:|:-------------------------:
-![](https://github.com/0xCB-dev/0xcb-1337/blob/main/PCB/rev3.0/top.png)  |  ![](https://github.com/0xCB-dev/0xcb-1337/blob/main/PCB/rev3.0/bottom.png)
+![](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev3.0/top.png)  |  ![](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev3.0/bottom.png)
 
 #### BOM:
 | References                                        | Value                            | Quantity |Part Nb.          |
