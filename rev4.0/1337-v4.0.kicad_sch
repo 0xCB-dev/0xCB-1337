@@ -6,10 +6,10 @@
 
   (title_block
     (title "1337")
-    (date "2021-12-15")
+    (date "2022-01-07")
     (rev "4.0")
     (company "0xCB")
-    (comment 1 "Conor Burns & Jakob Kriener")
+    (comment 1 "Conor Burns")
   )
 
   (lib_symbols

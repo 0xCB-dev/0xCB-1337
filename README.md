@@ -3,7 +3,7 @@
 
 Licence | OSHWA
 :-------------------------:|:-------------------------:
-![](https://github.com/0xCB-dev/0xcb-1337/blob/main/IMG/LICENSE.svg) | [![](https://github.com/0xCB-dev/0xcb-1337/blob/main/PCB/rev4.0/OSHWA.svg)](https://certification.oshwa.org/de000113.html)
+![](https://github.com/0xCB-dev/0xcb-1337/blob/main/LICENSE.svg) | [![](https://github.com/0xCB-dev/0xcb-1337/blob/main/PCB/rev4.0/OSHWA.svg)](https://certification.oshwa.org/de000113.html)
 
 ### QMK
 
@@ -19,15 +19,15 @@ Licence | OSHWA
 
 ### Assembly:
 
-You can use the [humanpnp](https://files.0xcb.dev/0xCB/1337/blob/main/rev4.0/humanpnp.html) to easily place components.
+You can use the [humanpnp](https://files.0xcb.dev/0xCB/1337/humanpnp.html) to easily place components.
 
 ### PCB:
-KiCad 6
+KiCad 6 stable release - using these [libs](https://github.com/0xCB-dev/0xcb-libs)
 [Schematic](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev4.0/1337-v4.0.pdf)
 
 Top | Bottom
 :-------------------------:|:-------------------------:
-![](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev4.0/top.png)  |  ![](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev4.0/bottom.png)
+![](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev4.0/1337-v4.0.top.png.png)  |  ![](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev4.0/1337-v4.0.bottom.png)
 
 #### BOM:
 | References                                        | Value                            | Quantity |Part Nb.          |
