@@ -7,7 +7,7 @@ Licence | OSHWA
 
 ### QMK
 
-[keyboards/0xcb/1337/](https://github.com/0xCB-dev/qmk_firmware)
+[keyboards/0xcb/1337/](https://github.com/qmk/qmk_firmware/tree/master/keyboards/0xcb/1337)
 
 #### Flashing
 
@@ -23,6 +23,7 @@ You can use the [humanpnp](https://files.0xcb.dev/0xCB/1337/humanpnp.html) to ea
 
 ### PCB:
 KiCad 6 stable release - using these [libs](https://github.com/0xCB-dev/0xcb-libs)
+
 [Schematic](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev4.0/1337-v4.0.pdf)
 
 Top | Bottom
@@ -31,6 +32,7 @@ Top | Bottom
 
 ### Case 3D files:
 [STLs](https://github.com/0xCB-dev/0xcb-1337/tree/main/rev4.0/case/STL)
+
 [Solidworks](https://github.com/0xCB-dev/0xcb-1337/tree/main/rev4.0/case/Solidworks)
 
 #### BOM:
