@@ -1,16 +1,16 @@
 {
   "board": {
-    "active_layer": 31,
-    "active_layer_preset": "All Copper Layers",
+    "active_layer": 0,
+    "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
-      "pads": 0.9599999785423279,
-      "tracks": 1.0,
-      "vias": 1.0,
-      "zones": 0.0
+      "pads": 0.7400000095367432,
+      "tracks": 0.7699999809265137,
+      "vias": 0.7900000214576721,
+      "zones": 0.14000000059604645
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
@@ -36,6 +36,7 @@
       8,
       9,
       10,
+      11,
       12,
       13,
       14,
@@ -61,7 +62,7 @@
       35,
       36
     ],
-    "visible_layers": "0001000_ffffffff",
+    "visible_layers": "0041100_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {

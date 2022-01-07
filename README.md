@@ -1,17 +1,13 @@
 # 0xcb-1337
 ## Mechanical macropad with OLED running QMK
 
-Licence | OSHWA | Tindie
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/0xCB-dev/0xcb-1337/blob/main/IMG/LICENSE.svg) | [![](https://github.com/0xCB-dev/0xcb-1337/blob/main/PCB/rev3.0/OSHWA.svg)](https://certification.oshwa.org/de000113.html) | <a href="https://www.tindie.com/stores/0xcb/?ref=offsite_badges&utm_source=sellers_conorlburns&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
-
-### VIA
-
-[src/0xcb/1337/1337.json](https://github.com/0xCB-dev/0xcb-1337/keyboards/tree/0xcb-1337/src/0xcb/1337)
+Licence | OSHWA
+:-------------------------:|:-------------------------:
+![](https://github.com/0xCB-dev/0xcb-1337/blob/main/IMG/LICENSE.svg) | [![](https://github.com/0xCB-dev/0xcb-1337/blob/main/PCB/rev4.0/OSHWA.svg)](https://certification.oshwa.org/de000113.html)
 
 ### QMK
 
-[keyboards/0xcb/1337/](https://github.com/0xCB-dev/qmk_firmware/tree/0xcb-1337)
+[keyboards/0xcb/1337/](https://github.com/0xCB-dev/qmk_firmware)
 
 #### Flashing
 
@@ -23,15 +19,15 @@ Licence | OSHWA | Tindie
 
 ### Assembly:
 
-You can use the [humanpnp](https://files.0xcb.dev/0xCB/1337/humanpnp.html) to easily place components.
+You can use the [humanpnp](https://files.0xcb.dev/0xCB/1337/blob/main/rev4.0/humanpnp.html) to easily place components.
 
 ### PCB:
 KiCad 6
-[Schematic](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev3.0/Schematic-1337.pdf)
+[Schematic](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev4.0/1337-v4.0.pdf)
 
 Top | Bottom
 :-------------------------:|:-------------------------:
-![](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev3.0/top.png)  |  ![](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev3.0/bottom.png)
+![](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev4.0/top.png)  |  ![](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev4.0/bottom.png)
 
 #### BOM:
 | References                                        | Value                            | Quantity |Part Nb.          |
