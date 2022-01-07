@@ -29,6 +29,10 @@ Top | Bottom
 :-------------------------:|:-------------------------:
 ![](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev4.0/1337-v4.0.top.png)  |  ![](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev4.0/1337-v4.0.bottom.png)
 
+### Case 3D files:
+[STLs](https://github.com/0xCB-dev/0xcb-1337/tree/main/rev4.0/case/STL)
+[Solidworks](https://github.com/0xCB-dev/0xcb-1337/tree/main/rev4.0/case/Solidworks)
+
 #### BOM:
  References                        | Value        | Quantity | Part Nb.            
 -----------------------------------|--------------|----------|---------------------
