@@ -400,7 +400,7 @@
       "netlist": "",
       "specctra_dsn": "../../../../Downloads/rev2.1.dsn",
       "step": "1337-v3.0.step",
-      "vrml": ""
+      "vrml": "../../../Downloads/1337-v4.0.wrl"
     },
     "page_layout_descr_file": ""
   },
