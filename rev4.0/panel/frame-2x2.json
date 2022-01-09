@@ -17,7 +17,7 @@
         "type": "mousebites",
         "spacing": "0.7mm",
         "offset": "0.2mm",
-        "prolong": "0.8mm"
+        "prolong": "0.5mm"
     },
     "framing": {
         "type": "frame",
@@ -41,13 +41,11 @@
     },
     "text": {
         "type": "simple",
-        "hoffset": "-13mm",
         "voffset": "-3mm",
-        "hjustify": "left",
-        "text": "0xCB 1337 2x2 Panel                              JLCJLCJLCJLC",
+        "text": "JLCJLCJLCJLC",
         "anchor": "mb"
     },
     "post": {
-        "millradius": "1mm"
+        "millradius": "0.32mm"
     }
 }
