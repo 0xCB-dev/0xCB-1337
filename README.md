@@ -5,6 +5,10 @@ Licence | OSHWA
 :-------------------------:|:-------------------------:
 ![](https://github.com/0xCB-dev/0xcb-1337/blob/main/LICENSE.svg) | [![](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev4.0/OSHWA.svg)](https://certification.oshwa.org/de000113.html)
 
+### Available here
+
+[KeebSupply](https://keeb.supply/products/0xcb-1337)
+
 ### QMK
 
 [keyboards/0xcb/1337/](https://github.com/qmk/qmk_firmware/tree/master/keyboards/0xcb/1337)
@@ -33,8 +37,6 @@ Top | Bottom
 ### Case 3D files:
 
 [STLs](https://github.com/0xCB-dev/0xcb-1337/tree/main/rev4.0/case/STL)
-
-[Solidworks](https://github.com/0xCB-dev/0xcb-1337/tree/main/rev4.0/case/Solidworks)
 
 ### PCB 3D files:
 
