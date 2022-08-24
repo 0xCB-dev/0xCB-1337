@@ -3,7 +3,7 @@
 
 Licence | OSHWA
 :-------------------------:|:-------------------------:
-![](https://github.com/0xCB-dev/0xcb-1337/blob/main/LICENSE.svg) | [![](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev4.0/OSHWA.svg)](https://certification.oshwa.org/de000113.html)
+![](https://github.com/0xCB-dev/0xcb-1337/blob/main/LICENSE.svg) | [![](https://github.com/0xCB-dev/0xcb-1337/blob/main/rev4.0/OSHWA.svg)](https://certification.oshwa.org/de000121.html)
 
 ### Available here:
 
