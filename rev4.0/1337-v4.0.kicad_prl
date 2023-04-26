@@ -3,10 +3,12 @@
     "active_layer": 0,
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
+    "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
+      "images": 0.6,
       "pads": 0.7400000095367432,
       "tracks": 0.7699999809265137,
       "vias": 0.7900000214576721,
@@ -39,7 +41,6 @@
       11,
       12,
       13,
-      14,
       15,
       16,
       17,
@@ -60,7 +61,9 @@
       33,
       34,
       35,
-      36
+      36,
+      39,
+      40
     ],
     "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
@@ -70,6 +73,19 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "1337-v4.0.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 644,
+          "pos_y": 971,
+          "size_x": 1280,
+          "size_y": 610
+        }
+      }
+    ]
   }
 }

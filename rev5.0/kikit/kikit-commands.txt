@@ -1,0 +1,7 @@
+Run in directory with pcb files
+
+Generate panel from PCB:
+docker run -v $(pwd):/kikit yaqwsx/kikit:v1.3.0-v7 panelize -p ./kikit/panel.json ./pcb.kicad_pcb ./kikit/panel/pcb-panel.kicad_pcb
+
+Generate production files:
+docker run -v $(pwd):/kikit yaqwsx/kikit:v1.3.0-v7 fab jlcpcb --no-drc --assembly --schematic ./pcb.kicad_sch ./kikit/panel/pcb-panel.kicad_pcb ./kikit/prod

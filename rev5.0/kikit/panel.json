@@ -1,0 +1,52 @@
+{
+  "layout": {
+    "alternation": "rows",
+    "hspace": "0mm",
+    "vspace": "0mm",
+    "rows": "2",
+    "cols": "2"
+  },
+  "source": {
+    "tolerance": "50mm"
+  },
+  "tabs": {
+    "type": "fixed",
+    "vwidth": "12mm",
+    "hcount": "0"
+
+  },
+  "cuts": {
+    "type": "vcuts",
+    "clearance": "1.6mm"
+  },
+  "framing": {
+    "type": "frame",
+    "hspace": "1mm",
+    "vspace": "1mm",
+    "width": "5mm",
+    "fillet": "1mm"
+  },
+  "tooling": {
+    "type": "3hole",
+    "hoffset": "2.5mm",
+    "voffset": "2.5mm",
+    "size": "2mm",
+    "paste": "true"
+  },
+  "fiducials": {
+    "type": "3fid",
+    "hoffset": "5mm",
+    "voffset": "3.85mm",
+    "coppersize": "1mm",
+    "opening": "2mm"
+  },
+  "text": {
+    "type": "simple",
+    "text": "0xCB 1337 Rev5.0",
+    "voffset": "2.5mm"
+  },
+  "post": {
+    "copperfill": "true",
+    "origin": "bl"
+  }
+}
