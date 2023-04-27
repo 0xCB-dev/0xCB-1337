@@ -1,8 +1,11 @@
 {
   "layout": {
     "alternation": "rows",
-    "hspace": "0mm",
-    "vspace": "0mm",
+    "hspace": "1mm",
+    "vspace": "1mm",
+    "hbackbone": "3mm",
+    "vbonecut": "False",
+    "hbonecut": "False",
     "rows": "2",
     "cols": "2"
   },
