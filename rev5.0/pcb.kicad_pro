@@ -93,7 +93,7 @@
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
+        "silk_over_copper": "ignore",
         "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "ignore",
@@ -493,8 +493,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "../../../../Downloads/rev2.1.dsn",
-      "step": "../../../Downloads/1337-v3.0.step",
-      "vrml": "../../../Downloads/1337-v4.0.wrl"
+      "step": "../../../../../Downloads/1337-v3.0.step",
+      "vrml": "../../../../../Downloads/1337-v4.0.wrl"
     },
     "page_layout_descr_file": ""
   },

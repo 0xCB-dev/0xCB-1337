@@ -1,4 +1,4 @@
-21756473904558417
+21758167131306181
 0xcb
 0xCB
 
@@ -48,6 +48,13 @@ AVR Programmer 6 pogo pin 2.54 mm spacing
 0
 6
 6
+0xcb
+Alps SKTDLDE010
+
+
+0
+7
+2
 0xcb
 BlackPillSTM32F401CCU6
 Through hole headers for BlackPill weact STM32F401. No SWD breakout. Fancy silkscreen.
@@ -578,7 +585,7 @@ helios
 USB C pro micro compatible microcontroller
 
 0
-34
+65
 34
 0xcb
 molex2169900001

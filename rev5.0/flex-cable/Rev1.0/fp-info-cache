@@ -1,4 +1,627 @@
-21712083552248365
+21894734534395234
+0xcb
+0xCB
+
+
+0
+0
+0
+0xcb
+0xCB-S
+
+
+0
+0
+0
+0xcb
+1.9x2.8mm SW
+ST-1194 C589221 1.9x2.8mm
+
+0
+4
+2
+0xcb
+32U4 AU + MU
+
+QFN 
+0
+119
+45
+0xcb
+128x64OLED
+
+
+0
+4
+4
+0xcb
+AST1109MLTRQ
+Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
+Murata Buzzer Beeper
+0
+2
+2
+0xcb
+AVR_PROG_2.54_THT
+AVR Programmer 6 pogo pin 2.54 mm spacing
+
+0
+6
+6
+0xcb
+Alps SKTDLDE010
+
+
+0
+7
+2
+0xcb
+BlackPillSTM32F401CCU6
+Through hole headers for BlackPill weact STM32F401. No SWD breakout. Fancy silkscreen.
+module BlackPill weact STM32F401
+0
+40
+40
+0xcb
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+0xcb
+Crystal_SMD_2520-4Pin_2.5x2.0mm
+SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+0xcb
+Crystal_SMD_3225-4Pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal reduced paste
+0
+4
+4
+0xcb
+DNP-QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm
+QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+45
+45
+0xcb
+D_0402_1005Metric
+Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+0xcb
+EC11
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+0xcb
+FFC-SMD_12P-P0.50_X05B20U12T
+
+
+0
+14
+14
+0xcb
+Ferrite_Bead_0603
+ferrite bead 0603
+Ferrite Bead
+0
+2
+2
+0xcb
+Fuse_0603_1608Metric
+Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+fuse
+0
+2
+2
+0xcb
+Fuse_0805_2012Metric
+Fuse SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+0xcb
+GCT_USB4105_REVA
+
+
+0
+20
+20
+0xcb
+GCT_USB4120-03-C_REVA
+
+
+0
+20
+20
+0xcb
+GT-USB-7014C
+
+
+0
+20
+20
+0xcb
+HS-F
+
+
+0
+0
+0
+0xcb
+J-LINK_6-PIN_NEEDLE_ADAPTER
+
+
+0
+6
+6
+0xcb
+J-LINK_6-PIN_NEEDLE_ADAPTER_SMALL
+
+
+0
+6
+6
+0xcb
+JST-SR-4
+
+
+0
+6
+4
+0xcb
+Kailh_Choc_1.5u
+
+
+0
+2
+2
+0xcb
+Kailh_Choc_1u
+
+
+0
+2
+2
+0xcb
+LED_EAST1616RGBA3
+
+
+0
+4
+4
+0xcb
+LED_WS2812B-2020_PLCC4_2.0x2.0mm
+Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
+LED RGB NeoPixel Nano 2020
+0
+4
+4
+0xcb
+MX_SK6812MINI-E
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+4
+4
+0xcb
+Micro_Push_Button_3x6x2.5mm
+
+
+0
+2
+2
+0xcb
+PogoISP
+Through hole angled pin header, 1x06, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x06 2.54mm single row
+0
+6
+6
+0xcb
+QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm_ThermalVias
+QFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=283), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+54
+29
+0xcb
+QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias
+QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+75
+45
+0xcb
+QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm
+QFN, 56 Pin (https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf#page=634), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+61
+57
+0xcb
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
+0xcb
+R_0402_1005Metric
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+0xcb
+SK6812MINI-HS
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+4
+4
+0xcb
+SOD882D
+
+
+0
+2
+2
+0xcb
+SOT-563
+SOT563
+SOT-563
+0
+6
+6
+0xcb
+SOT-666
+SOT666
+SOT-666
+0
+6
+6
+0xcb
+SOT95P280X145-6N
+
+
+0
+6
+6
+0xcb
+SW_Cherry_MX_PCB_1.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.00u
+0
+2
+2
+0xcb
+SW_Cherry_MX_PCB_1.25u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.25u
+0
+2
+2
+0xcb
+SW_Cherry_MX_PCB_1.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.50u
+0
+2
+2
+0xcb
+SW_Cherry_MX_PCB_1.75u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.75u
+0
+2
+2
+0xcb
+SW_Cherry_MX_PCB_2.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.00u
+0
+2
+2
+0xcb
+SW_Cherry_MX_PCB_2.25u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.25u
+0
+2
+2
+0xcb
+SW_Cherry_MX_PCB_2.75u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.75u
+0
+2
+2
+0xcb
+SW_Cherry_MX_PCB_3.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 3.00u
+0
+2
+2
+0xcb
+SW_Cherry_MX_PCB_6.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 6.00u
+0
+2
+2
+0xcb
+SW_Cherry_MX_PCB_6.00u_offset
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 6.00u offset
+0
+2
+2
+0xcb
+SW_Cherry_MX_PCB_6.25u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 6.25u
+0
+2
+2
+0xcb
+SW_Cherry_MX_PCB_7.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 7.00u
+0
+2
+2
+0xcb
+SW_Cherry_MX_PCB_10.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 7.00u
+0
+2
+2
+0xcb
+SW_Cherry_MX_PCB_ISOEnter_Rotated90
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB ISOEnter
+0
+2
+2
+0xcb
+SW_Hotswap_Kailh_1.00u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.00u
+0
+2
+2
+0xcb
+SW_Hotswap_Kailh_1.25u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.00u
+0
+2
+2
+0xcb
+SW_Hotswap_Kailh_1.50u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.50u
+0
+2
+2
+0xcb
+SW_Hotswap_Kailh_1.75u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.75u
+0
+2
+2
+0xcb
+SW_Hotswap_Kailh_2.00u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.00u
+0
+2
+2
+0xcb
+SW_Hotswap_Kailh_2.25u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.25u
+0
+2
+2
+0xcb
+SW_Hotswap_Kailh_6.25u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 7.00u
+0
+2
+2
+0xcb
+SW_Hotswap_Kailh_7.00u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 7.00u
+0
+2
+2
+0xcb
+SW_Tactile_SPST_Angled
+tactile switch SPST right angle, PTS645VL39-2 LFS
+tactile switch SPST angled PTS645VL39-2 LFS C&K Button
+0
+4
+2
+0xcb
+SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
+net tie solder jumper bridged
+0
+3
+3
+0xcb
+Stabilizer_Cherry_MX_2u
+Cherry MX key stabilizer 2u 2.25u 2.5u 2.75u
+Cherry MX key stabilizer 2u 2.25u 2.5u 2.75u
+0
+0
+0
+0xcb
+Stabilizer_Cherry_MX_3u
+Cherry MX key stabilizer 3u
+Cherry MX key stabilizer 3u
+0
+0
+0
+0xcb
+Stabilizer_Cherry_MX_6.25u
+Cherry MX key stabilizer 6.25u
+Cherry MX key stabilizer 6.25u
+0
+0
+0
+0xcb
+Stabilizer_Cherry_MX_6u
+Cherry MX key stabilizer 6u
+Cherry MX key stabilizer 6u
+0
+0
+0
+0xcb
+Stabilizer_Cherry_MX_7u
+Cherry MX key stabilizer 7u
+Cherry MX key stabilizer 7u
+0
+0
+0
+0xcb
+Stabilizer_Cherry_MX_8u
+Cherry MX key stabilizer 8u 9u 10u
+Cherry MX key stabilizer 8u 9u 10u
+0
+0
+0
+0xcb
+TVS D_SOD-123F Rounded
+D_SOD-123F
+D_SOD-123F
+0
+2
+2
+0xcb
+TestPoint_Pad_D0.5mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
+0
+1
+1
+0xcb
+TestPoint_Pad_D0.8mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
+0
+1
+1
+0xcb
+USB_C_Receptacle_HRO-TYPE-C-31-M-13
+
+
+0
+20
+20
+0xcb
+USB_C_Receptacle_HRO_TYPE-C-31-M-12
+
+
+0
+20
+20
+0xcb
+USB_C_Receptacle_HRO_TYPE-C-31-M-31
+
+
+0
+20
+20
+0xcb
+W25Q32JVUUIQ
+16MB flash
+
+0
+10
+10
+0xcb
+W25Q128JVPIQ
+16MB flash
+
+0
+9
+9
+0xcb
+X2SON-4
+
+
+0
+5
+5
+0xcb
+generic-promicro
+
+
+0
+24
+24
+0xcb
+helios
+USB C pro micro compatible microcontroller
+
+0
+65
+34
+0xcb
+molex2169900001
+
+
+0
+20
+20
+0xcb
+mount
+
+
+0
+1
+1
+0xcb
+mouse-bite-5mm-slot
+
+
+0
+0
+0
+0xcb
+pluto
+USB C pro micro compatible microcontroller
+
+0
+33
+33
+0xcb
+trackball_choc_combi
+
+
+0
+7
+7
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -1246,6 +1869,13 @@ tactile switch Wurth Wuerth
 4
 2
 Button_Switch_SMD
+SW_Push_1P1T_XKB_TS-1187A
+SMD Tactile Switch, http://www.helloxkb.com/public/images/pdf/TS-1187A-X-X-X.pdf
+SPST Tactile Switch
+0
+4
+2
+Button_Switch_SMD
 SW_Push_SPST_NO_Alps_SKRK
 http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRK/SKRKAHE020.html
 SMD SMT button
@@ -1947,8 +2577,8 @@ switch SPDT
 3
 Button_Switch_THT
 SW_E-Switch_EG1271_SPDT
-E-Switch sub miniature slide switch, EG series, SPDT, http://spec_sheets.e-switch.com/specs/P040047.pdf
-switch DPDT
+E-Switch sub miniature slide switch, EG series, SPDT, https://www.e-switch.com/wp-content/uploads/2022/06/EG.pdf
+switch SPDT
 0
 6
 6
@@ -6384,6 +7014,13 @@ connector JWT A3963 pinhead
 2
 2
 Connector
+Joint-Tech_C5080WR-04P_1x04_P5.08mm_Vertical
+C5080 SERIES 90° Wafer, (https://datasheet.lcsc.com/lcsc/1912261836_HR-Joint-Tech-Elec-C5080WR-04P_C477015.pdf)
+connector side-entry ATA PATA IDE 5.25 inch floppy drive power
+0
+6
+5
+Connector
 NS-Tech_Grove_1x04_P2mm_Vertical
 https://statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf
 Grove-1x04
@@ -8370,6 +9007,13 @@ Molex Microcoaxial RF Connectors (MCRF), mates Hirose U.FL, (http://www.molex.co
 mcrf hirose ufl u.fl microcoaxial
 0
 4
+2
+Connector_Coaxial
+WR-MMCX_Wuerth_66012102111404_Vertical
+Würth WR-MMCX PCB SMT Jack, Vertical (https://www.we-online.com/components/products/datasheet/66012102111404.pdf)
+Coaxial Connector 50 ohms Female
+0
+3
 2
 Connector_Coaxial
 WR-MMCX_Wuerth_66011102111302_Horizontal
@@ -46907,6 +47551,13 @@ USB Type-C Plug Edge Mount
 24
 23
 Connector_USB
+USB_C_Plug_ShenzhenJingTuoJin_918-118A2021Y40002_Vertical
+Low-profile vertical USB 2.0 Type C Plug Shenzhen Jing Tuo Jin Electronics Co 918-118A2021Y40002 ( https://datasheet.lcsc.com/lcsc/1912111437_Jing-Extension-of-the-Electronic-Co--918-118A2021Y40002_C399939.pdf ) also compatible with Korean HRO Parts Elec TYPE-C-31-G-06
+type-c usb2
+0
+18
+17
+Connector_USB
 USB_C_Receptacle_Amphenol_12401548E4-2A
 USB TYPE C, RA RCPT PCB, Hybrid, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401548E4%7e2A
 USB C Type-C Receptacle Hybrid
@@ -46945,6 +47596,13 @@ Connector_USB
 USB_C_Receptacle_G-Switch_GT-USB-7010ASV
 USB Type C, right-angle, SMT, https://datasheet.lcsc.com/lcsc/2204071530_G-Switch-GT-USB-7010ASV_C2988369.pdf
 USB C Type-C Receptacle SMD
+0
+20
+17
+Connector_USB
+USB_C_Receptacle_G-Switch_GT-USB-7051x
+USB Type C, vertical, SMT, https://datasheet.lcsc.com/lcsc/2108072030_G-Switch-GT-USB-7051A_C2843970.pdf
+USB C Type-C Receptacle SMD GT-USB-7051A GT-USB-7051B
 0
 20
 17
@@ -49511,6 +50169,20 @@ Hahn ACDC-Converter THT
 4
 4
 Converter_ACDC
+Converter_ACDC_HiLink_HLK-5Mxx
+ACDC-Converter, 10W, HiLink, HLK-5Mxx, (http://h.hlktech.com/download/ACDC%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%975W%E7%B3%BB%E5%88%97/1/%E6%B5%B7%E5%87%8C%E7%A7%915W%E7%B3%BB%E5%88%97%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%97%E8%A7%84%E6%A0%BC%E4%B9%A6V2.8.pdf)
+ACDC-Converter 5W THT HiLink board mount module
+0
+4
+4
+Converter_ACDC
+Converter_ACDC_HiLink_HLK-10Mxx
+ACDC-Converter, 10W, HiLink, HLK-10Mxx, THT, http://h.hlktech.com/download/ACDC%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%9710W%E7%B3%BB%E5%88%97/1/%E6%B5%B7%E5%87%8C%E7%A7%9110W%E7%B3%BB%E5%88%97%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%97%E8%A7%84%E6%A0%BC%E4%B9%A6V1.8.pdf
+ACDC-Converter 10W THT HiLink board mount module
+0
+4
+4
+Converter_ACDC
 Converter_ACDC_HiLink_HLK-PMxx
 ACDC-Converter, 3W, HiLink, HLK-PMxx, THT, http://www.hlktech.net/product_detail.php?ProId=54
 ACDC-Converter 3W THT HiLink board mount module
@@ -49882,6 +50554,13 @@ dc-dc recom buck sip-12 pitch 2.54mm
 12
 12
 Converter_DCDC
+Converter_DCDC_RECOM_RCD-24_THT
+Constant current LED Driver DC/DC Converter, https://g.recomcdn.com/media/Datasheet/pdf/.fYUQjOlW/.t2a80a771bdbb0ef300f7/Datasheet-93/RCD-24.pdf
+Led Driver DC-DC 
+0
+6
+6
+Converter_DCDC
 Converter_DCDC_RECOM_RPA60-xxxxSFW
 RPA60-FW 60W Isolated DC to DC Converters
 DCDC Regulator Single
@@ -49972,6 +50651,13 @@ traco dcdc tht 15w
 0
 9
 9
+Converter_DCDC
+Converter_DCDC_TRACO_THN30-xxxx_THT
+DCDC-Converter TRACO THN 10 to 30W, Single or dual Output, (https://www.tracopower.com/sites/default/files/products/datasheets/thn15wi_datasheet.pdf)
+DCDC-Converter TRACO THN30 Generic
+0
+6
+5
 Converter_DCDC
 Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT
 DCDC-Converter, TRACO, TMR 1-xxxx, Dual output, Rev. March 21.2016
@@ -50112,6 +50798,20 @@ DCDC-Converter XP_POWER JTE06 Dual
 0
 8
 8
+Converter_DCDC
+Converter_DCDC_muRata_MEJ1DxxxxSC_THT
+muRata MEJ1DxxxxSC, 19.5x9.8x12.5mm, 5.2kVDC Isolated, 1W, dual output, SIP package style, https://power.murata.com/data/power/ncl/kdc_mej1.pdf
+muRata MEJ1D DCDC-Converter
+0
+5
+5
+Converter_DCDC
+Converter_DCDC_muRata_MEJ1SxxxxSC_THT
+muRata MEJ1SxxxxSC, 19.5x9.8x12.5mm, 5.2kVDC Isolated, 1W, single output, SIP package style, https://power.murata.com/data/power/ncl/kdc_mej1.pdf
+muRata MEJ1S DCDC-Converter
+0
+4
+4
 Crystal
 Crystal_AT310_D3.0mm_L10.0mm_Horizontal
 Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf
@@ -51008,6 +51708,13 @@ SMD SMT crystal
 0
 2
 2
+Crystal
+Crystal_SMD_SeikoEpson_FA128-4Pin_2.0x1.6mm
+crystal Epson Toyocom FA-128 (https://support.epson.biz/td/api/doc_check.php?dl=brief_FA-128&lang=en), 2x1.6mm^2 package
+SMD SMT crystal
+0
+4
+4
 Crystal
 Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm
 crystal Epson Toyocom FA-238 https://support.epson.biz/td/api/doc_check.php?dl=brief_fa-238v_en.pdf, 3.2x2.5mm^2 package
@@ -55622,6 +56329,13 @@ Inductor xal
 2
 2
 Inductor_SMD
+L_Coilcraft_XFL2010
+Coilcraft XFL2010, Shielded power inductor, 0808, 1.9x2.0mm, https://www.coilcraft.com/getmedia/50382b97-998f-4b75-b5ee-4a93b0ac4411/xfl2010.pdf
+miniature
+0
+2
+2
+Inductor_SMD
 L_Coilcraft_XxL4020
 L_Coilcraft_XxL4020 https://www.coilcraft.com/pdfs/xfl4020.pdf
 L Coilcraft XxL4020
@@ -55660,6 +56374,13 @@ Inductor_SMD
 L_CommonModeChoke_Coilcraft_1812CAN
 Coilcraft 1812CAN Series Common Mode Choke, https://www.coilcraft.com/pdfs/1812can.pdf
 surface mount common mode bead
+0
+4
+4
+Inductor_SMD
+L_CommonModeChoke_Murata_DLW5BTMxxxSQ2x_5x5mm
+Wire Wound Chip Common Mode Choke Coil SMD, Murata DLW5BTxxxSQ2x, https://www.murata.com/products/productdata/8796762701854/EFLC0020.pdf, manual footprint
+inductor common mode choke
 0
 4
 4
@@ -57576,7 +58297,7 @@ chokes schaffner tht
 4
 Inductor_THT
 Choke_Schaffner_RN112-04-17.7x17.1mm
-Current-compensated Chokes, Schaffner, RN112-04, 17.7mmx17.1mm https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/
+Current-compensated Chokes, Schaffner, RN112-04, 17.7mmx17.1mm https://www.schaffner.com/fileadmin/user_upload/pim/products/datasheets/RN_series.pdf
 chokes schaffner tht
 0
 4
@@ -64372,6 +65093,13 @@ SMD SMT crystal oscillator hand-soldering
 4
 4
 Oscillator
+Oscillator_SMD_SeikoEpson_TG2520SMN-xxx-xxxxxx-4Pin_2.5x2.0mm
+Miniature Crystal Clock Oscillator TG2520 series, https://support.epson.biz/td/api/doc_check.php?dl=app_TG2520SMN&lang=en
+Miniature Crystal Clock Oscillator TG2520 series SMD SMT
+0
+4
+4
+Oscillator
 Oscillator_SMD_SiTime_PQFD-6L_3.2x2.5mm
 3.2x2.5mm, 6-pin QFN (https://www.sitime.com/datasheet/SiT9365 page 13)
 SMD SMT mems oscillator
@@ -64427,594 +65155,34 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
-PCM_0xcb
-0xCB
-
-
-0
-0
-0
-PCM_0xcb
-0xCB-S
-
+PCM_kikit
+Board
+Mark board for extraction
 
 0
 0
 0
-PCM_0xcb
-1.9x2.8mm SW
-ST-1194 C589221 1.9x2.8mm
-
-0
-4
-2
-PCM_0xcb
-32U4 AU + MU
-
-QFN 
-0
-119
-45
-PCM_0xcb
-128x64OLED
-
-
-0
-4
-4
-PCM_0xcb
-AST1109MLTRQ
-Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
-Murata Buzzer Beeper
-0
-2
-2
-PCM_0xcb
-AVR_PROG_2.54_THT
-AVR Programmer 6 pogo pin 2.54 mm spacing
-
-0
-6
-6
-PCM_0xcb
-BlackPillSTM32F401CCU6
-Through hole headers for BlackPill weact STM32F401. No SWD breakout. Fancy silkscreen.
-module BlackPill weact STM32F401
-0
-40
-40
-PCM_0xcb
-C_0402_1005Metric
-Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-PCM_0xcb
-Crystal_SMD_2520-4Pin_2.5x2.0mm
-SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
-SMD SMT crystal
-0
-4
-4
-PCM_0xcb
-Crystal_SMD_3225-4Pin_3.2x2.5mm
-SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
-SMD SMT crystal reduced paste
-0
-4
-4
-PCM_0xcb
-DNP-QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm
-QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-45
-45
-PCM_0xcb
-D_0402_1005Metric
-Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-diode
-0
-2
-2
-PCM_0xcb
-EC11
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-7
-6
-PCM_0xcb
-Ferrite_Bead_0603
-ferrite bead 0603
-Ferrite Bead
-0
-2
-2
-PCM_0xcb
-Fuse_0603_1608Metric
-Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-fuse
-0
-2
-2
-PCM_0xcb
-Fuse_0805_2012Metric
-Fuse SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-PCM_0xcb
-GCT_USB4105_REVA
-
-
-0
-20
-20
-PCM_0xcb
-GCT_USB4120-03-C_REVA
-
-
-0
-20
-20
-PCM_0xcb
-GT-USB-7014C
-
-
-0
-20
-20
-PCM_0xcb
-HS-F
-
-
-0
-0
-0
-PCM_0xcb
-J-LINK_6-PIN_NEEDLE_ADAPTER
-
-
-0
-6
-6
-PCM_0xcb
-J-LINK_6-PIN_NEEDLE_ADAPTER_SMALL
-
-
-0
-6
-6
-PCM_0xcb
-JST-SR-4
-
-
-0
-6
-4
-PCM_0xcb
-Kailh_Choc_1.5u
-
-
-0
-2
-2
-PCM_0xcb
-Kailh_Choc_1u
-
-
-0
-2
-2
-PCM_0xcb
-LED_EAST1616RGBA3
-
-
-0
-4
-4
-PCM_0xcb
-MX_SK6812MINI-E
-Add-on for regular MX-footprints with SK6812 MINI-E
-cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
-0
-4
-4
-PCM_0xcb
-Micro_Push_Button_3x6x2.5mm
-
-
-0
-2
-2
-PCM_0xcb
-PogoISP
-Through hole angled pin header, 1x06, 2.54mm pitch, 6mm pin length, single row
-Through hole angled pin header THT 1x06 2.54mm single row
-0
-6
-6
-PCM_0xcb
-QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm_ThermalVias
-QFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=283), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-QFN DFN_QFN
-0
-54
-29
-PCM_0xcb
-QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias
-QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-75
-45
-PCM_0xcb
-QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm
-QFN, 56 Pin (https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf#page=634), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-61
-57
-PCM_0xcb
-R_0402_1005Metric
-Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-PCM_0xcb
-SK6812MINI-HS
-Add-on for regular MX-footprints with SK6812 MINI-E
-cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
-0
-4
-4
-PCM_0xcb
-SOD882D
-
-
-0
-2
-2
-PCM_0xcb
-SOT-563
-SOT563
-SOT-563
-0
-6
-6
-PCM_0xcb
-SOT-666
-SOT666
-SOT-666
-0
-6
-6
-PCM_0xcb
-SW_Cherry_MX_PCB_1.00u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 1.00u
-0
-2
-2
-PCM_0xcb
-SW_Cherry_MX_PCB_1.25u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 1.25u
-0
-2
-2
-PCM_0xcb
-SW_Cherry_MX_PCB_1.50u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 1.50u
-0
-2
-2
-PCM_0xcb
-SW_Cherry_MX_PCB_1.75u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 1.75u
-0
-2
-2
-PCM_0xcb
-SW_Cherry_MX_PCB_2.00u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 2.00u
-0
-2
-2
-PCM_0xcb
-SW_Cherry_MX_PCB_2.25u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 2.25u
-0
-2
-2
-PCM_0xcb
-SW_Cherry_MX_PCB_2.75u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 2.75u
-0
-2
-2
-PCM_0xcb
-SW_Cherry_MX_PCB_3.00u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 3.00u
-0
-2
-2
-PCM_0xcb
-SW_Cherry_MX_PCB_6.00u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 6.00u
-0
-2
-2
-PCM_0xcb
-SW_Cherry_MX_PCB_6.00u_offset
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 6.00u offset
-0
-2
-2
-PCM_0xcb
-SW_Cherry_MX_PCB_6.25u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 6.25u
-0
-2
-2
-PCM_0xcb
-SW_Cherry_MX_PCB_7.00u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 7.00u
-0
-2
-2
-PCM_0xcb
-SW_Cherry_MX_PCB_10.00u
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB 7.00u
-0
-2
-2
-PCM_0xcb
-SW_Cherry_MX_PCB_ISOEnter_Rotated90
-Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
-Cherry MX Keyboard Keyswitch Switch PCB ISOEnter
-0
-2
-2
-PCM_0xcb
-SW_Hotswap_Kailh_1.00u
-Kailh keyswitch Hotswap Socket, 
-Kailh Keyboard Keyswitch Switch Hotswap Socket 1.00u
-0
-2
-2
-PCM_0xcb
-SW_Hotswap_Kailh_1.25u
-Kailh keyswitch Hotswap Socket, 
-Kailh Keyboard Keyswitch Switch Hotswap Socket 1.00u
-0
-2
-2
-PCM_0xcb
-SW_Hotswap_Kailh_1.50u
-Kailh keyswitch Hotswap Socket, 
-Kailh Keyboard Keyswitch Switch Hotswap Socket 1.50u
-0
-2
-2
-PCM_0xcb
-SW_Hotswap_Kailh_1.75u
-Kailh keyswitch Hotswap Socket, 
-Kailh Keyboard Keyswitch Switch Hotswap Socket 1.75u
-0
-2
-2
-PCM_0xcb
-SW_Hotswap_Kailh_2.00u
-Kailh keyswitch Hotswap Socket, 
-Kailh Keyboard Keyswitch Switch Hotswap Socket 2.00u
-0
-2
-2
-PCM_0xcb
-SW_Hotswap_Kailh_2.25u
-Kailh keyswitch Hotswap Socket, 
-Kailh Keyboard Keyswitch Switch Hotswap Socket 2.25u
-0
-2
-2
-PCM_0xcb
-SW_Hotswap_Kailh_6.25u
-Kailh keyswitch Hotswap Socket, 
-Kailh Keyboard Keyswitch Switch Hotswap Socket 7.00u
-0
-2
-2
-PCM_0xcb
-SW_Hotswap_Kailh_7.00u
-Kailh keyswitch Hotswap Socket, 
-Kailh Keyboard Keyswitch Switch Hotswap Socket 7.00u
-0
-2
-2
-PCM_0xcb
-SW_Tactile_SPST_Angled
-tactile switch SPST right angle, PTS645VL39-2 LFS
-tactile switch SPST angled PTS645VL39-2 LFS C&K Button
-0
-4
-2
-PCM_0xcb
-SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels
-SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
-net tie solder jumper bridged
-0
-3
-3
-PCM_0xcb
-Stabilizer_Cherry_MX_2u
-Cherry MX key stabilizer 2u 2.25u 2.5u 2.75u
-Cherry MX key stabilizer 2u 2.25u 2.5u 2.75u
-0
-0
-0
-PCM_0xcb
-Stabilizer_Cherry_MX_3u
-Cherry MX key stabilizer 3u
-Cherry MX key stabilizer 3u
-0
-0
-0
-PCM_0xcb
-Stabilizer_Cherry_MX_6.25u
-Cherry MX key stabilizer 6.25u
-Cherry MX key stabilizer 6.25u
-0
-0
-0
-PCM_0xcb
-Stabilizer_Cherry_MX_6u
-Cherry MX key stabilizer 6u
-Cherry MX key stabilizer 6u
-0
-0
-0
-PCM_0xcb
-Stabilizer_Cherry_MX_7u
-Cherry MX key stabilizer 7u
-Cherry MX key stabilizer 7u
-0
-0
-0
-PCM_0xcb
-Stabilizer_Cherry_MX_8u
-Cherry MX key stabilizer 8u 9u 10u
-Cherry MX key stabilizer 8u 9u 10u
-0
-0
-0
-PCM_0xcb
-TVS D_SOD-123F Rounded
-D_SOD-123F
-D_SOD-123F
-0
-2
-2
-PCM_0xcb
-TestPoint_Pad_D0.5mm
-SMD pad as test Point, diameter 1.0mm
-test point SMD pad
+PCM_kikit
+Fiducial
+Circular Fiducial
+fiducial
 0
 1
-1
-PCM_0xcb
-TestPoint_Pad_D0.8mm
-SMD pad as test Point, diameter 1.0mm
-test point SMD pad
 0
-1
-1
-PCM_0xcb
-USB_C_Receptacle_HRO-TYPE-C-31-M-13
-
-
-0
-20
-20
-PCM_0xcb
-USB_C_Receptacle_HRO_TYPE-C-31-M-12
-
-
-0
-20
-20
-PCM_0xcb
-USB_C_Receptacle_HRO_TYPE-C-31-M-31
-
-
-0
-20
-20
-PCM_0xcb
-W25Q32JVUUIQ
-16MB flash
-
-0
-10
-10
-PCM_0xcb
-W25Q128JVPIQ
-16MB flash
-
-0
-9
-9
-PCM_0xcb
-X2SON-4
-
-
-0
-5
-5
-PCM_0xcb
-generic-promicro
-
-
-0
-24
-24
-PCM_0xcb
-helios
-USB C pro micro compatible microcontroller
-
-0
-34
-34
-PCM_0xcb
-molex2169900001
-
-
-0
-20
-20
-PCM_0xcb
-mount
-
-
-0
-1
-1
-PCM_0xcb
-mouse-bite-5mm-slot
+PCM_kikit
+NPTH
 
 
 0
 0
 0
-PCM_0xcb
-pluto
-USB C pro micro compatible microcontroller
+PCM_kikit
+Tab
+A symbol representing annotation for tab placement
 
 0
-33
-33
-PCM_0xcb
-trackball_choc_combi
-
-
 0
-7
-7
+0
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
@@ -67809,6 +67977,27 @@ pqfn 44 7x7mm
 125
 27
 Package_DFN_QFN
+LQFN-10-1EP_2x2mm_P0.5mm_EP0.7x0.7mm
+LQFN, 10 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-lqfn/05081644_0_LQFN10.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LQFN NoLead
+0
+12
+11
+Package_DFN_QFN
+LQFN-12-1EP_2x2mm_P0.5mm_EP0.7x0.7mm
+LQFN, 12 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-lqfn/05081530_B_LQFN12.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LQFN NoLead
+0
+14
+13
+Package_DFN_QFN
+LQFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm
+LQFN, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-lqfn/05081595_0_lqfn16.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LQFN NoLead
+0
+18
+17
+Package_DFN_QFN
 Linear_DE14MA
 14-Lead Plastic DFN, 4mm x 3mm (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-dfn/05081731_C_DE14MA.pdf)
 DFN 0.5
@@ -70398,6 +70587,13 @@ Texas RSE0010 UQFN NoLead
 0
 10
 10
+Package_DFN_QFN
+Texas_VQFN-HR-20_3x2.5mm_P0.5mm_RQQ0011A
+Texas  VQFN-HR, 11 Pin, https://www.ti.com/lit/ml/mpqf579/mpqf579.pdf
+RQQ0011A
+0
+15
+11
 Package_DFN_QFN
 Texas_VQFN-RHL-20
 http://www.ti.com/lit/ds/symlink/bq51050b.pdf
@@ -73303,6 +73499,13 @@ NXP LGA NoLead
 0
 8
 8
+Package_LGA
+Rohm_MLGA010V020A_LGA-10_2x2mm_P0.45mm_LayoutBorder_3x2y
+Rohm  LGA, 10 Pin (https://fscdn.rohm.com/en/techdata_basic/ic/package/Jisso_MLGA010V020A-1-2_Rev005s_E2(MSL3).pdf)
+Rohm LGA NoLead
+0
+10
+10
 Package_LGA
 ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y
 ST  HLGA, 10 Pin (https://www.st.com/resource/en/datasheet/lps25hb.pdf#page=46), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -76698,6 +76901,13 @@ USON-20 2x4mm Pitch 0.4mm
 0
 20
 20
+Package_SON
+VSON-8_1.5x2mm_P0.5mm
+VSON, 8 Pin (http://www.ti.com/lit/ds/symlink/tps62840.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py
+VSON NoLead
+0
+8
+8
 Package_SON
 VSON-8_3.3x3.3mm_P0.65mm_NexFET
 8-Lead Plastic Dual Flat, No Lead Package (MF) - 3.3x3.3x1 mm Body [VSON] http://www.ti.com/lit/ds/symlink/csd87334q3d.pdf
@@ -80549,6 +80759,13 @@ Antenna ProAnt OnBoard 868Mhz 915Mhz 2400Mhz
 6
 6
 RF_Antenna
+Astrocast_AST50127-00
+L-band patch antenna, https://docs.astrocast.com/dl/0534-DOC-M2M-ASTRO-Patch_Antenna-Datasheet.pdf
+L-band antenna astrocast Patch Antenna
+0
+1
+1
+RF_Antenna
 Coilcraft_MA5532-AE_RFID
 RFID Transponder Coil
 antenna rfid coilcraft
@@ -80618,6 +80835,13 @@ balun RF
 0
 6
 6
+RF_Converter
+Balun_Johanson_0900FM15K0039
+Johanson 0900FM15K0039 DFN, 10 Pin (https://www.johansontechnology.com/datasheets/0900FM15K0039/0900FM15K0039.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Johanson DFN NoLead
+0
+10
+10
 RF_Converter
 Balun_Johanson_0900PC15J0013
 Johanson 0900PC15J0013 DFN, 10 Pin (https://www.johansontechnology.com/datasheets/0900PC15J0013/0900PC15J0013.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -81003,6 +81227,13 @@ LoRa Ra-01
 0
 16
 16
+RF_Module
+Astrocast_AST50147-00
+L-band satellite communication module, https://docs.astrocast.com/dl/0532-DOC-M2M-ASTRO-Astronode_S-Datasheet.pdf
+RF module Astrocast radio Astronode
+0
+38
+38
 RF_Module
 Atmel_ATSAMR21G18-MR210UA_NoRFPads
 http://ww1.microchip.com/downloads/en/devicedoc/atmel-42475-atsamr21g18-mr210ua_datasheet.pdf
@@ -81795,8 +82026,8 @@ Kemet EC2 signal relay DPDT double dual coil latching through hole THT
 10
 10
 Relay_THT
-Relay_DPDT_Omron_G2RL
-Omron Relay DPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Relay_DPDT_Omron_G2RL-2
+Omron Relay, DPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
 Omron Relay DPDT
 0
 8
@@ -81868,6 +82099,13 @@ Relay_THT
 Relay_DPST_Fujitsu_FTR-F1A
 https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-f1.pdf
 relay dpst fujitsu tht
+0
+6
+6
+Relay_THT
+Relay_DPST_Omron_G2RL-2A
+Omron Relay, DPST, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Omron Relay DPST
 0
 6
 6
@@ -81961,6 +82199,20 @@ Relay SPDT Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/en-g
 Relay SPDT Omron Serie G5Q
 0
 5
+5
+Relay_THT
+Relay_SPDT_Omron_G2RL-1
+Omron Relay, SPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Omron Relay SPDT
+0
+5
+5
+Relay_THT
+Relay_SPDT_Omron_G2RL-1-E
+Omron Relay, SPDT, High Capacity, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Omron Relay SPDT High Capacity
+0
+8
 5
 Relay_THT
 Relay_SPDT_Omron_G5V-1
@@ -82080,6 +82332,20 @@ Relay SPST-NO Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/e
 Relay SPST-NO Omron Serie G5Q
 0
 4
+4
+Relay_THT
+Relay_SPST_Omron_G2RL-1A
+Omron Relay, SPST, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Omron Relay SPST
+0
+4
+4
+Relay_THT
+Relay_SPST_Omron_G2RL-1A-E
+Omron Relay, SPST, High Capacity,  https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Omron Relay SPST High Capacity
+0
+6
 4
 Relay_THT
 Relay_SPST_Panasonic_JW1_FormA
@@ -83601,12 +83867,26 @@ infineon mems microphone
 15
 5
 Sensor_Audio
+InvenSense_ICS-43434-6_3.5x2.65mm
+TDK InvenSense MEMS I2S Microphone: https://invensense.tdk.com/products/ics-43434/
+microphone MEMS I2S ICS-43434 TDK InvenSense
+0
+6
+6
+Sensor_Audio
 Knowles_LGA-5_3.5x2.65mm
 https://www.knowles.com/docs/default-source/model-downloads/sph0641lu4h-1-revb.pdf
 MEMS Microphone LGA
 0
 5
 5
+Sensor_Audio
+Knowles_SPH0645LM4H-6_3.5x2.65mm
+Knowles MEMS I2S Microphone: https://www.knowles.com/subdepartment/dpt-microphones/subdpt-sisonic-surface-mount-mems
+microphone MEMS I2S SPH0645LM4H Knowles
+0
+6
+6
 Sensor_Audio
 ST_HLGA-6_3.76x4.72mm_P1.65mm
 http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/27/62/48/98/44/54/4d/36/DM00303211/files/DM00303211.pdf/jcr:content/translations/en.DM00303211.pdf
@@ -84150,6 +84430,13 @@ Symbol
 ESD-Logo_44.1x40mm_SilkScreen
 Electrostatic discharge Logo
 Logo ESD
+0
+0
+0
+Symbol
+EasterEgg_EWG1308-2013_ClassA
+Egg with 42x60mm Body-Size, ClassA, according to EWG1308/2013
+egg easter 
 0
 0
 0
