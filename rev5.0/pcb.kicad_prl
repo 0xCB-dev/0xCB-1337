@@ -57,14 +57,13 @@
       29,
       30,
       32,
-      33,
       34,
       35,
       36,
       39,
       40
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "0001000_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
@@ -73,6 +72,18 @@
   },
   "project": {
     "files": [
+      {
+        "name": "pcb.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 640,
+          "pos_y": 881,
+          "size_x": 1280,
+          "size_y": 417
+        }
+      },
       {
         "name": "pcb.kicad_sch",
         "open": false,
@@ -83,18 +94,6 @@
           "pos_y": 745,
           "size_x": 1698,
           "size_y": 910
-        }
-      },
-      {
-        "name": "pcb.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 640,
-          "pos_y": 881,
-          "size_x": 1280,
-          "size_y": 498
         }
       }
     ]
